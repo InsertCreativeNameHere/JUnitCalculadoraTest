@@ -6,4 +6,4 @@ Presentador por :
 
 - Javier Andres Aponte  20172020036
 - Luis Daniel Hormiga 20172020026
-- Julian David Rincon <Inserte codigo aqui>
+- Julian David Rincon 20172020128
